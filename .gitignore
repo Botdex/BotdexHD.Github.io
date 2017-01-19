@@ -1,0 +1,107 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+  <title>BotdexHD-YT</title>  
+    </head>
+    <body>
+    <embed src="images/Ivan%20B%20-%20Sweaters.mp3" autostart="true" loop="false" width="50" height="10"
+    </body>
+<head>
+    <title>ARaynorDesign Template</title>
+  <meta name="description" content="free website template" />
+  <meta name="keywords" content="enter your keywords here" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+  <script type="text/javascript" src="js/jquery.min.js"></script>
+  <script type="text/javascript" src="js/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript">
+    $(function() {
+      $("#lava_menu").lavaLamp({
+        fx: "backout",
+        speed: 700
+      });
+    });
+  </script>
+    <script type="text/javascript" src="js/jquery.nivo.slider.pack.js"></script>
+    <script type="text/javascript">
+    $(window).load(function() {
+        $('#slider').nivoSlider();
+    });
+    </script>
+
+</head>
+
+<body>
+  <div id="main">	
+    <div id="header">  
+      <h1>Botdex <span>HD</span></h1>	
+	  <h2>Ps3 Modder</h2>
+    </div><!--close header-->	    
+	<div id="site_content">  
+	  <div id="menu_container">  
+	    <div id="menubar">
+          <ul class="lavaLampWithImage" id="lava_menu">
+            <li class="current"><a href="index.html">Home</a></li>
+            <li><a href="ourwork.html">Prices</a></li>
+            <li><a href="testimonials.html">Giveaway</a></li>
+            <li><a href="projects.html">About Me</a></li>
+            <li><a href="contact.html">Contact  Me</a></li>
+          </ul>
+	    </div><!--close menubar-->
+	  </div><!--close menu_container-->
+		
+      <div class="sidebar_container">   		  
+		<div class="sidebar">
+          <div class="sidebar_item">
+            <h2>Youtube</h2>
+			<h4>BotdexHD</h4>
+            <p>Help me hit 1,000 subscribers please, i will be doing alot of giveaways </p>
+		      <a href="#">Read more</a>
+          </div><!--close sidebar_item--> 
+        </div><!--close sidebar-->     		
+		<div class="sidebar">
+          <div class="sidebar_item">
+            <h2>Discord Chat</h2>
+			<h4>Come Chat with me</h4>
+            <p>My username is BotdexHD, but..I'm making a Group the link is https://discord.gg/2VHW4</p>
+		      <a href="#">Read more</a>
+          </div><!--close sidebar_item--> 
+        </div><!--close sidebar-->   
+		<div class="sidebar">
+          <div class="sidebar_item">
+            <h2>Modding Group</h2>
+			<h4>Join!</h4>
+            <p>I might make a group of people who mod on ps3, so text me on Discord if you wanna Join *still havent made it.. will let you all know when i do.</p>
+		      <a href="#">Read more</a>
+          </div><!--close sidebar_item--> 
+        </div><!--close sidebar-->   
+        </div><!--close sidebar_container-->
+		    
+	    <div id="banner_image">
+	      <div id="slider-wrapper">        
+            <div id="slider" class="nivoSlider">
+              <img src="images/slide1.jpg" alt="" />
+              <img src="images/slide2.jpg" alt="" />
+		    </div><!--close slider-->
+		  </div><!--close slider-wrapper-->
+	    </div><!--close banner_image-->	
+		
+      <div id="content">
+        <div class="content_item">
+          <h1>Welcome to my website!</h1>
+          <p>I'm a ps3 modder, sometimes Im nice and sometimes im not... if u buy a modded account or buy to mod your accountbe patient! please!! DON'T HURRY ME OR I WILL SEND YOU BACK YOU MONEY AND NOT MOD IT !!Thank You.</p>
+          <h3>Why i mod?</h3>
+          <div style="width:200px; float:left; padding: 0px 20px 10px 0px;"><img alt="image" src="images/images.jpg" /></div>
+          <P>Well, i've seen alot of modders that are mean and some are nice... but i mod accounts etc because i wanna grow on youtube and have a youtuber life, i wanna make some people smile... If its your birthday i can mod your account for free but i need alot of proof, If your new dont say give me a free modded account or try to be my friend to get free shit !!</P>
+		</div><!--close content_item	
+	      	
+       <br style="clear:both;" />
+      </div><!--close content-->	
+    </div><!--close site_content-->	
+    <div id="footer">  
+      <a href="http://validator.w3.org/check?uri=referer"></a> | <a href="http://jigsaw.w3.org/css-validator/check/referer">Valid CSS</a> | <a href="http://fotogrph.com/">Images</a> | website template by <a href="http://www.araynordesign.co.uk">ARaynorDesign</a>
+    </div><!--close footer-->	
+  </div><!--close main-->	
+</body>
+</html>
